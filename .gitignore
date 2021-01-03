@@ -1,3 +1,4 @@
 node_modules
 config/*
 !config/example.env
+!config/test.env
